@@ -22,11 +22,7 @@ Use Newton's Second Law to simulate:
 </p>
 
 Where:
- 𝑚 = mass
- 𝑧 = vertical acceleration
- 𝑇 = thrust (PID output)
- 𝑔 = gravity (9.81 m/s²)
- 𝐷 = disturbance force (optional)
+ 𝑚 = mass; 𝑧 = vertical acceleration; 𝑇 = thrust (PID output); 𝑔 = gravity (9.81 m/s²); 𝐷 = disturbance force (optional)
 
 
 ##Simulation GUI
