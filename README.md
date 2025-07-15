@@ -1,16 +1,33 @@
 # 1D-Drone-Altitude-Control-using-PID
  This project demonstrates a simple simulation of vertical (1D) altitude control for a drone using a PID (Proportional-Integral-Derivative) controller. It includes a GUI with interactive sliders for tuning `Kp`, `Ki`, `Kd`, and setting the target altitude. The simulation also includes wind disturbances to test the controller’s robustness.
-@ -1,2 +1,63 @@
-# 1D-Drone-Altitude-Control-using-PID
- This project demonstrates a simple simulation of vertical (1D) altitude control for a drone using a PID (Proportional-Integral-Derivative) controller. It includes a GUI with interactive sliders for tuning `Kp`, `Ki`, `Kd`, and setting the target altitude. The simulation also includes wind disturbances to test the controller’s robustness.
 ---
-
 ## 📸 Project Overview
-
-##Simulation Overview
+Objective
+Control the altitude (height) of a drone using a PID controller to:
+Reach a target height (setpoint)
+Compensate for disturbances like wind or weight change
 <p align="center">
   <img src="https://github.com/user-attachments/assets/34acaa4e-2e51-45f5-9555-19bc7b4c0db5" alt="Simulation Overview" width="600"/>
 </p>
+
+## 🧠 Concept 
+A drone moves vertically under the influence of:
+Thrust (adjusted by the PID)
+Gravity
+Disturbances (e.g., wind gusts)
+Use Newton's Second Law to simulate:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c448d228-cf03-467d-b1ae-5a7ce9222df7" alt="Simulation Overview" width="600"/>
+</p>
+
+Where:
+ 𝑚 = mass
+ 𝑧 = vertical acceleration
+ 𝑇 = thrust (PID output)
+ 𝑔 = gravity (9.81 m/s²)
+ 𝐷 = disturbance force (optional)
+
 
 ##Simulation GUI
 <p align="center">
