@@ -48,7 +48,7 @@ python drone_pid_gui.py
 
 ---
 
-📌 Features
+## 📌 Features
     🎚️ Real-time tuning of PID controller
     🌪️ Simulated wind disturbances (random noise)
     📊 Dynamic plots for altitude, thrust, and disturbance
@@ -57,7 +57,7 @@ python drone_pid_gui.py
 
 ---
 
-🙋 Author
+##🙋 Author
 Wael GAFSI
     📧 wael.gafsi@enis.tn
     📍 National Engineering School of Sfax, Tunisia
@@ -65,5 +65,5 @@ Wael GAFSI
 
 ---
 
-📄 License
+##📄 License
 This project is open-source and free to use for educational and personal use. Feel free to fork or contribute.
