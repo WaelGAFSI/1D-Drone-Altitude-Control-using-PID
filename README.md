@@ -61,7 +61,7 @@ python drone_pid_gui.py
 Wael GAFSI
     📧 wael.gafsi@enis.tn
     📍 National Engineering School of Sfax, Tunisia
-    🔗 LinkedIn (optional)
+    🔗 https://www.linkedin.com/in/waelgafsi/)
 
 ---
 
