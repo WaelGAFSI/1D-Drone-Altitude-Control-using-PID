@@ -7,14 +7,17 @@
 
 ## 📸 Project Overview
 
+##Simulation Overview
 <p align="center">
-  <img src=""https://github.com/user-attachments/assets/34acaa4e-2e51-45f5-9555-19bc7b4c0db5" alt="Simulation Overview" width="600"/>
+  <img src="https://github.com/user-attachments/assets/34acaa4e-2e51-45f5-9555-19bc7b4c0db5" alt="Simulation Overview" width="600"/>
 </p>
 
+##Simulation GUI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57dc8a75-63f0-4abf-8837-27aca9639465" alt="Simulation GUI" width="600"/>
 </p>
 
+##Block Diagram
 <p align="center">
   <img src="https://github.com/user-attachments/assets/73bf6b60-a504-4fd9-8df9-6b83be26e09c" alt="Block Diagram" width="600"/>
 </p>
